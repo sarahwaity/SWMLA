@@ -1,2 +1,2 @@
 # SWMLA
-Sarah Wait's Machine Learning Atlas, where I, Sarah Wait, am storing all of my jupyter notebooks and application notes for commonly used machine learning algorithms! 
+Sarah Wait's Machine Learning Atlas, where I, Sarah Wait, am storing all of my jupyter notebooks and application notes for commonly used machine learning algorithms! Im currently strengthening my understanding and am reading through the text "Machine Learning with PyTorch and Scikit-Learn" by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili. In this repo, you will see implementatins of the models described by them, as well as my own notes and understandings of what ive read! My orverarching goal is to create a decision tree for the best model implementations given the task at hand!
