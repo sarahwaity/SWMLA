@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "swmla"
+version = "0.1.0"
+description = "This is a repository made to keep my notebooks for machine learning"
+authors = ["Sarah Wait <sarah.j.wait@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.3.1"
+numpy = "^2.3.2"
+torch = "^2.7.1"
+torchvision = "^0.22.1"
+torchaudio = "^2.7.1"
+scikit-learn = "^1.7.1"
+matplotlib = "^3.10.3"
+seaborn = "^0.13.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.30.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
